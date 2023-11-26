@@ -15,7 +15,7 @@
                     <span class="icon-map-signs"></span>
                 </div>
                 <h3 class="mb-4">Address</h3>
-              <p>East medda, Brahmanbaria, Bangladesh</p>
+              <p>East Medda, Brahmanbaria, Bangladesh</p>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 d-flex ftco-animate">

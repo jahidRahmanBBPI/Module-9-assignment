@@ -22,11 +22,11 @@
                     <li class="d-flex"><span>Email:</span> <span>rahmanjahid645@gmail.com</span></li>
                     <li class="d-flex"><span>Phone: </span> <span>01581888176</span></li>
                 </ul> --}}
-                <h3>Hello! I'm Jahid Rahman, a passionate PHP working with Laravel.</h3>
+                <h3>Hello! I'm MD. Jahid Rahman, a passionate PHP working with Laravel.</h3>
             <p style="color: #ccc">I have a strong background in PHP & Laravel and enjoy creating robust web applications using Laravel's powerful features.</p>
             <p style="color: #ccc">Throughout my career, I've had the opportunity to work on various projects, honing my skills in Laravel. I love to tackle challenges and solve complex problems.</p>
             <p style="color: #ccc">When I'm not coding, you can find me JavaScript, Python, or exploring new technologies to expand my knowledge.</p>
-            <p style="color: #ccc">Feel free to 01581888176 to discuss collaborations or exciting projects!</p>
+            <p style="color: #ccc">Feel free to 01843-627200 to discuss collaborations or exciting projects!</p>
               </div>
             </div>
           <div class="counter-wrap ftco-animate d-flex mt-md-3">
@@ -82,7 +82,7 @@
                   <div class="progress">
                        <div class="progress-bar color-3" role="progressbar" aria-valuenow="95"
                         aria-valuemin="0" aria-valuemax="100" style="width:95%">
-                      <span>90%</span>
+                      <span>95%</span>
                         </div>
                   </div>
               </div>
@@ -93,7 +93,7 @@
                   <div class="progress">
                        <div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
                         aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                      <span>80%</span>
+                      <span>90%</span>
                         </div>
                   </div>
               </div>
@@ -104,7 +104,7 @@
                   <div class="progress">
                        <div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
                         aria-valuemin="0" aria-valuemax="100" style="width:70%">
-                      <span>60%</span>
+                      <span>70%</span>
                         </div>
                   </div>
               </div>
@@ -115,7 +115,7 @@
                   <div class="progress">
                        <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
                         aria-valuemin="0" aria-valuemax="100" style="width:80%">
-                      <span>50%</span>
+                      <span>80%</span>
                         </div>
                   </div>
               </div>
